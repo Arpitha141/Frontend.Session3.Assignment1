@@ -1,0 +1,24 @@
+		#a{
+			width:500px;
+		}
+
+		#b{
+			width: 300px;
+		}
+
+		#c{
+			width: 400px;
+		}
+
+		td{
+			border: 1px solid black;
+		 }
+		 th{
+			border: 1px solid black;
+			text-align:center;
+		 }
+		 
+		  tr,td {
+			text-align:left;
+			width:100px;
+		  }
